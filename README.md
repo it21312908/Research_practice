@@ -30,3 +30,6 @@ cd your-project
 3. Count the Lines Of Codes
 4. Store it in a csv file
 5. Read the csv file by importing pandas
+
+
+## 1. count CC - Cyclomatic Complexity
